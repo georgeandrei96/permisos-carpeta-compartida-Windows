@@ -1,1 +1,1 @@
-# permisos-carpeta-compartida-Windows
+# permisos-carpeta-compartida-Windows-linux
